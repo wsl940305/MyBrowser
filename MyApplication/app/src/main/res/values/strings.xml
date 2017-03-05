@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="hint_UrlInput">请输入网址或者关键字</string>
+    <string name="GO">GO</string>
+</resources>
